@@ -16,7 +16,7 @@ If you are using the package please cite:
 
    * Vladimir Loncar, Jennifer Ngadiuba, Maurizio Pierini [CERN]
    * Giuseppe Di Guglielmo [Columbia University]
-   * Javier Duarte, Sergo Jindariani, Benjamin Kreis, Ryan Rivera, Nhan Tran [Fermilab]
+   * Javier Duarte, Burt Holzman, Sergo Jindariani, Benjamin Kreis, Ryan Rivera, Nhan Tran [Fermilab]
    * Edward Kreinar [Hawkeye360]
    * Sioni Summers [Imperial College]
    * Song Han, Philip Harris, Dylan Rankin [MIT]
