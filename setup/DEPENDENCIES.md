@@ -36,4 +36,4 @@ source activate hls4ml-env
 
 ## Docker
 
-(Coming soon!)
+Instructions for creating Docker images with hls4ml and Vivado HLS can be found [here](https://github.com/hls-fpga-machine-learning/hls4ml/tree/master/test/docker).
